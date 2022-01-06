@@ -142,6 +142,10 @@
   background-color: #c4c4c4;
 }
 
+.section.team.hide {
+  display: none;
+}
+
 .section.logo {
   position: relative;
   overflow: hidden;
